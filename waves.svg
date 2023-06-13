@@ -11,9 +11,9 @@
   </defs>
   <g class="parallax">
     <use xlink:href="#gentle-wave" x="48" y="0" fill="rgba(10,0,71, 0.4)" />
-    <use xlink:href="#gentle-wave" x="48" y="3" fill="rgba(10,0,71, 0.3)" />
-    <use xlink:href="#gentle-wave" x="48" y="5" fill="rgba(0,70,135, 0.1)" />
-    <use xlink:href="#gentle-wave" x="48" y="7" fill="rgba(0,70,135, 0.2)" />
+    <use xlink:href="#gentle-wave" x="48" y="5" fill="rgba(10,0,71, 0.3)" />
+    <use xlink:href="#gentle-wave" x="48" y="6" fill="rgba(0,70,135, 0.1)" />
+    <use xlink:href="#gentle-wave" x="48" y="0" fill="rgba(0,70,135, 0.2)" />
   </g>
 
   <style>
@@ -21,9 +21,9 @@
       position: absolute;
       bottom: 0;
       width: 100%;
-      height: 100px;
+      height: 200px;
       min-height: 50px;
-      max-height: 100px;
+      max-height: 200px;
       border-radius: 25px;
     }
     .parallax>use {
