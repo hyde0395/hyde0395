@@ -15,8 +15,8 @@
 ### 👩‍💻 My Github Stats 👩‍💻
 
 <p align="left">
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hyde0395&show_icons=true&include_all_commits=true&custom_title=GitHub%20Stats" align = "center"/>
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hyde0395&layout=compact&langs_count=8" align = "center"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hyde0395&theme=tokyonight&show_icons=true&include_all_commits=true&custom_title=GitHub%20Stats" align = "center"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hyde0395&theme=tokyonight&layout=compact&langs_count=8" align = "center"/>
 </p>
 
 
