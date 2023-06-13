@@ -5,7 +5,7 @@
 
   ![header](https://capsule-render.vercel.app/api?type=soft&height=350&section=header&text=Welcome%20to%20my%20Github&animation=fadeIn&fontSize=70&theme=tokyonight)
   <p align="center">
-  <img src="https://raw.githubusercontent.com/hyde0395/hyde0395/master/logo.svg" width="300" height="300">
+  <img src="https://raw.githubusercontent.com/hyde0395/hyde0395/master/logo.svg" width="500" height="300">
 </p>	
 <img src="https://raw.githubusercontent.com/hyde0395/hyde0395/master/waves.svg" width="100%" height="150">
 
