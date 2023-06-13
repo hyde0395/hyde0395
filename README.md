@@ -31,7 +31,7 @@ I would appreciate it if you could let me know a lot. Thank you.
 ### What I'm learning  is 
 <img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 
-
+This profile design was made by referring to matfantinel.
 <!--
 **hyde0395/hyde0395** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
