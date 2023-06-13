@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=soft&height=350&section=header&text=Welcome%20to%20my%20Github&animation=fadeIn&fontSize=70&theme=tokyonight)
+<div align="center">![header](https://capsule-render.vercel.app/api?type=soft&height=350&section=header&text=Welcome%20to%20my%20Github&animation=fadeIn&fontSize=70&theme=tokyonight)
+</div>
+
 
 ## Hello I'm Choi ha lim 👋
 
