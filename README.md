@@ -1,13 +1,9 @@
-### HELLO I'm Web Developer 👋
+### HELLO I'm Choi halim 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=github&logoColor=white"/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyde0395&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+What I'm learning is <img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 
 
 <!--
