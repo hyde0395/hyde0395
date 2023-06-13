@@ -54,9 +54,10 @@
 
 ### 👩‍💻 My Github Stats 👩‍💻
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyde0395&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyde0395&layout=compact&theme=tokyonight)
+<p align="left">
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hyde0395&show_icons=true&include_all_commits=true&custom_title=GitHub%20Stats" align = "center"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hyde0395&layout=compact&langs_count=8" align = "center"/>
+</p>
 
 
 
