@@ -12,6 +12,10 @@
 ## Hi I'm ha lim 👋
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%230A0047&title_bg=%23004687&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 
+I am a university student who majored in computer science living in Korea. 
+
+I love the react language very much, and I have recently become interested in server-side rendering methods, so I am studying next js.
+
 ### 👩‍💻 My Github Stats 👩‍💻
 
 <p align="left">
