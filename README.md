@@ -1,13 +1,19 @@
-<div align="center">![header](https://capsule-render.vercel.app/api?type=soft&height=350&section=header&text=Welcome%20to%20my%20Github&animation=fadeIn&fontSize=70&theme=tokyonight)
-</div>
-
-
-## Hello I'm Choi ha lim 👋
-
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyde0395&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  
+  ![header](https://capsule-render.vercel.app/api?type=soft&height=350&section=header&text=Welcome%20to%20my%20Github&animation=fadeIn&fontSize=70&theme=tokyonight)
+  
 </div>
+
+
+## Hi I'm ha lim 👋
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%230A0047&title_bg=%23004687&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
+
+### 👩‍💻 My Github Stats 👩‍💻
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyde0395&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyde0395&layout=compact&theme=tokyonight)
+
 
 
 
