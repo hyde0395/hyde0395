@@ -1,7 +1,7 @@
 ### HELLO I'm Web Developer 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
+<img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=github&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
 
