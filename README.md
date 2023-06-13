@@ -12,14 +12,14 @@
 ## Hi I'm ha lim 👋
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%230A0047&title_bg=%23004687&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 
-I am a university student who majored in computer science living in Korea. 
+I am a university student who majored in computer science living in 🇰🇷Korea. 
 
 I love the react very much, and I have recently become interested in server-side rendering methods, so I am studying next js.<br/>
 I'm working as a front-end developer for a small startup 'ohble'. <br/>
 I want to be a full stack developer in the future. My role model is Jongmin Kim, who is called 'interactive developer'.<br/>
 I would appreciate it if you could let me know a lot. Thank you.
 
-### 👩‍💻 My Github Stats 👩‍💻
+### 💻 My Github Stats 
 
 <p align="left">
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hyde0395&theme=tokyonight&show_icons=true&include_all_commits=true&custom_title=GitHub%20Stats" align = "center"/>
