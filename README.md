@@ -14,7 +14,9 @@
 
 I am a university student who majored in computer science living in Korea. 
 
-I love the react language very much, and I have recently become interested in server-side rendering methods, so I am studying next js.
+I love the react language very much, and I have recently become interested in server-side rendering methods, so I am studying next js.<br/>
+I want to be a full stack developer in the future. My role model is Jongmin Kim, who is called 'interactive developer'.<br/>
+I would appreciate it if you could let me know a lot. Thank you.
 
 ### 👩‍💻 My Github Stats 👩‍💻
 
