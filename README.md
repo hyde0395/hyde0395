@@ -36,7 +36,12 @@ I would appreciate it if you could let me know a lot. Thank you.
 
 
 ### Where to contact me
-<img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/> : https://www.linkedin.com/in/choi-ha-lim-97326a268/
+<img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/> : https://www.linkedin.com/in/choi-ha-lim-97326a268/ <br/>
+<img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/> : 
+https://www.instagram.com/harim_chicken03/ <br/>
+<img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/> : apologus0395@gmail.com
+
+
 
 
 
