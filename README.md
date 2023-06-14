@@ -22,7 +22,9 @@ I would appreciate it if you could let me know a lot. Thank you.
 
 ## My works
 Ohble promotion website : https://www.ohble.net/ <br/>
-<img src="https://raw.githubusercontent.com/hyde0395/hyde0395/master/ohble_promotion_website.png" width="600" height="300">
+<img src="https://raw.githubusercontent.com/hyde0395/hyde0395/master/works/ohble_promotion_website.png" width="300" height="150">
+<img src="https://raw.githubusercontent.com/hyde0395/hyde0395/master/works/ohble_promotion_website(1).png" width="300" height="150">
+<img src="https://raw.githubusercontent.com/hyde0395/hyde0395/master/works/ohble_promotion_website(2).png" width="300" height="150">
 
 
 ### 💻 My Github Stats 
