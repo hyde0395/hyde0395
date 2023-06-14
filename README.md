@@ -10,8 +10,8 @@
 ## Hi I'm ha lim 👋
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%230A0047&title_bg=%23004687&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 
-I am a university student who majored in computer science living in 🇰🇷 Korea.<br/><br/>
-안녕하세요. 저는 한국에 사는 컴퓨터 공학을 전공하는 평범한 대학생입니다.😉
+##### I am a university student who majored in computer science living in 🇰🇷 Korea.<br/>
+##### 안녕하세요. 저는 한국에 사는 컴퓨터 공학을 전공하는 평범한 대학생입니다.😉
 
 
 I'm in love with React and I have recently become interested in server-side rendering methods, so I am studying next js.<br/>
@@ -36,13 +36,12 @@ I would appreciate it if you could let me know a lot. Thank you.
 
 
 ### Where to contact me
+<img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/> : (https://www.linkedin.com/in/하림-최-97326a268/)
 
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/하림-최-97326a268/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)
 
 ### What I'm learning  is 
 <img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 
-This profile design was made by referring to matfantinel.
 <!--
 **hyde0395/hyde0395** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
