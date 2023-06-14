@@ -7,14 +7,14 @@
 </p>	
 <img src="https://raw.githubusercontent.com/hyde0395/hyde0395/master/waves.svg" width="100%" height="150">
 
-
-
 ## Hi I'm ha lim 👋
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%230A0047&title_bg=%23004687&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 
-I am a university student who majored in computer science living in 🇰🇷Korea. 
+I am a university student who majored in computer science living in 🇰🇷 Korea.<br/><br/>
+안녕하세요. 저는 한국에 사는 컴퓨터 공학을 전공하는 평범한 대학생입니다.😉
 
-I love the react very much, and I have recently become interested in server-side rendering methods, so I am studying next js.<br/>
+
+I'm in love with React and I have recently become interested in server-side rendering methods, so I am studying next js.<br/>
 I'm working as a front-end developer for a small startup 'ohble'. <br/>
 I want to be a full stack developer in the future. My role model is Jongmin Kim, who is called 'interactive developer'.<br/>
 I would appreciate it if you could let me know a lot. Thank you.
@@ -26,8 +26,18 @@ I would appreciate it if you could let me know a lot. Thank you.
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hyde0395&theme=tokyonight&layout=compact&langs_count=8" align = "center"/>
 </p>
 
+### Some Tools I Have Used and Learned
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="apple" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="amazonwebservices" width="45" height="45"/>
+</p>
 
 
+### Where to contact me
+
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/하림-최-97326a268/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)
 
 ### What I'm learning  is 
 <img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
