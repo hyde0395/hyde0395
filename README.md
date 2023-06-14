@@ -21,10 +21,10 @@ I want to be a full stack developer in the future. My role model is Jongmin Kim,
 I would appreciate it if you could let me know a lot. Thank you.
 
 ## My works
-Ohble promotion website : https://www.ohble.net/ <br/>
-<img src="https://raw.githubusercontent.com/hyde0395/hyde0395/master/works/ohble_promotion_website.png" width="300" height="150">
-<img src="https://raw.githubusercontent.com/hyde0395/hyde0395/master/works/ohble_promotion_website(1).png" width="300" height="150">
-<img src="https://raw.githubusercontent.com/hyde0395/hyde0395/master/works/ohble_promotion_website(2).png" width="300" height="150">
+Ohble promotion website : https://www.ohble.net/ <br/><br/>
+<img src="https://raw.githubusercontent.com/hyde0395/hyde0395/master/works/ohble_promotion_website.png" width="300" height="160">
+<img src="https://raw.githubusercontent.com/hyde0395/hyde0395/master/works/ohble_promotion_website(1).png" width="300" height="160">
+<img src="https://raw.githubusercontent.com/hyde0395/hyde0395/master/works/ohble_promotion_website(2).png" width="300" height="160">
 
 
 ### 💻 My Github Stats 
