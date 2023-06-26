@@ -28,7 +28,7 @@ Ohble promotion website <br/>
 <br/>
 Ohble analysis website <br/>
 <img src="https://raw.githubusercontent.com/hyde0395/hyde0395/master/works/ohble_analysis_ website(1).png" width="28%" height="30%">
-<img src="https://raw.githubusercontent.com/hyde0395/hyde0395/master/works/ohble_analysis_ website(2).png" width="28%" height="30%">
+<img src="https://raw.githubusercontent.com/hyde0395/hyde0395/master/works/ohble_analysis_ website(2).png">
 
 
 
