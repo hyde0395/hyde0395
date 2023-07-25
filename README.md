@@ -11,8 +11,12 @@
 ## Hi I'm ha lim 👋
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%230A0047&title_bg=%23004687&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 
-##### I am a university student who majored in computer science living in 🇰🇷 Korea.<br/>
+##### I am a university student who majored in computer science living in 🇰🇷 South Korea.<br/>
 ##### 안녕하세요. 저는 컴퓨터 공학을 전공하는 평범한 한국인 대학생입니다.😉
+
+
+### 저는 2023년 8월 7일부터 군대에 입대할 예정입니다.
+### I will join the army from August 7, 2023.
 
 
 I'm in love with React and I have recently become interested in server-side rendering methods, so I am studying next js.<br/>
