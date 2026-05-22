@@ -1,9 +1,8 @@
 <!--   ![header](https://capsule-render.vercel.app/api?type=soft&height=350&section=header&text=Welcome%20to%20my%20Github&animation=fadeIn&fontSize=70&theme=tokyonight) -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hyde0395/hyde0395/master/svg/logo.svg" width="500" height="150">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=2,12,20&text=Welcome%20to%20Ha%20Lim's%20GitHub&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%">
 </p>
-<img src="https://raw.githubusercontent.com/hyde0395/hyde0395/master/svg/waves.svg" width="100%" height="150">
 
 
 ## Hi, I'm Ha Lim 👋
@@ -89,8 +88,8 @@ AI와 접목할 수 있는 풀스택 웹 개발도 꾸준히 하고 있습니다
 ## 📊 GitHub Stats
 
 <p align="left">
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hyde0395&theme=tokyonight&show_icons=true&include_all_commits=true&custom_title=GitHub%20Stats" align="center"/>
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hyde0395&theme=tokyonight&layout=compact&langs_count=8" align="center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hyde0395&theme=tokyonight&show_icons=true&include_all_commits=true&custom_title=GitHub%20Stats" align="center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyde0395&theme=tokyonight&layout=compact&langs_count=8" align="center"/>
 </p>
 
 ---
