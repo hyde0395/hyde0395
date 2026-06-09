@@ -5,12 +5,6 @@
 <h2 align="center">Hi, I'm Ha Lim 👋</h2>
 
 <p align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyde0395&count_bg=%230A0047&title_bg=%23004687&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/>
-  </a>
-</p>
-
-<p align="center">
   컴퓨터공학을 전공하고, AI와 웹 개발을 공부하고 있는 개발자입니다.<br/>
   단순히 AI를 사용하는 것을 넘어, <strong>AI를 웹 서비스에 자연스럽게 녹여내는 풀스택 개발자</strong>가 목표입니다.
 </p>
